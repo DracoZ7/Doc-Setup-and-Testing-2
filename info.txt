@@ -1,0 +1,4 @@
+Text types 
+
+- "Header 7" Info list
+- Under Title | Nickname 
